@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{1694E962-7153-482D-8743-475A69CFBC7F}|Default">
+  <MonoDevelop.Ide.ItemProperties.AgentieZboruriMPP PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AgentieZboruriMPP/ViewController.cs">
+    <Files>
+      <File FileName="AgentieZboruriMPP/Program.cs" />
+      <File FileName="AgentieZboruriMPP/AppDelegate.cs" />
+      <File FileName="AgentieZboruriMPP/Entitlements.plist" />
+      <File FileName="AgentieZboruriMPP/Info.plist" />
+      <File FileName="AgentieZboruriMPP/domain/Bilet.cs" />
+      <File FileName="AgentieZboruriMPP/domain/User.cs" />
+      <File FileName="AgentieZboruriMPP/domain/Zbor.cs" />
+      <File FileName="AgentieZboruriMPP/repository/BiletRepo.cs" />
+      <File FileName="AgentieZboruriMPP/repository/DBUtils.cs" />
+      <File FileName="AgentieZboruriMPP/repository/IRepo.cs" />
+      <File FileName="AgentieZboruriMPP/repository/IRepoBilet.cs" />
+      <File FileName="AgentieZboruriMPP/repository/IRepoUser.cs" />
+      <File FileName="AgentieZboruriMPP/repository/IRepoZbor.cs" />
+      <File FileName="AgentieZboruriMPP/repository/UserRepo.cs" />
+      <File FileName="AgentieZboruriMPP/repository/ZborRepo.cs" />
+      <File FileName="AgentieZboruriMPP/service/BiletService.cs" />
+      <File FileName="AgentieZboruriMPP/service/ServiceMain.cs" />
+      <File FileName="AgentieZboruriMPP/service/UserService.cs" />
+      <File FileName="AgentieZboruriMPP/service/ZborService.cs" />
+      <File FileName="AgentieZboruriMPP/Main.cs" />
+      <File FileName="AgentieZboruriMPP/app.config" />
+      <File FileName="AgentieZboruriMPP/packages.config" />
+      <File FileName="AgentieZboruriMPP/DBConfig/ConnectionFactory.cs" />
+      <File FileName="AgentieZboruriMPP/DBConfig/SqliteConnectionFactory.cs" />
+      <File FileName="../../../../Applications/Visual Studio.app/Contents/MonoBundle/MSBuild/Current/bin/Microsoft.Common.CurrentVersion.targets" />
+      <File FileName="AgentieZboruriMPP/ViewController.designer.cs" />
+      <File FileName="AgentieZboruriMPP/ViewController.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AgentieZboruriMPP" expanded="True">
+            <Node name="AgentieZboruriMPP" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="DBConfig" expanded="True" />
+              <Node name="repository" expanded="True" />
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

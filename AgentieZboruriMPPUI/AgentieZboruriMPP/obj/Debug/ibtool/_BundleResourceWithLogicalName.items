@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/buyViewController.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>buyViewController.nib</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/NSViewController-Utt-hz-lea.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/NSViewController-Utt-hz-lea.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/NSViewController-Utt-hz-lea.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/NSViewController-Utt-hz-lea.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/NSViewController-gV6-4m-W34.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/NSViewController-gV6-4m-W34.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/NSViewController-gV6-4m-W34.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/NSViewController-gV6-4m-W34.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/NSViewController-Oyl-ga-BNV.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/NSViewController-Oyl-ga-BNV.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/NSViewController-Oyl-ga-BNV.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/NSViewController-Oyl-ga-BNV.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/MainMenu.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/MainMenu.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/MainMenu.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/MainMenu.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/NSWindowController-B8D-0N-5wS.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/NSWindowController-B8D-0N-5wS.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/Oyl-ga-BNV-view-MIx-tv-vVh.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/Oyl-ga-BNV-view-MIx-tv-vVh.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/Oyl-ga-BNV-view-MIx-tv-vVh.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/Oyl-ga-BNV-view-MIx-tv-vVh.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/Utt-hz-lea-view-oCx-Oa-URA.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/Utt-hz-lea-view-oCx-Oa-URA.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/Utt-hz-lea-view-oCx-Oa-URA.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/Utt-hz-lea-view-oCx-Oa-URA.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/gV6-4m-W34-view-Y10-VP-AZP.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/gV6-4m-W34-view-Y10-VP-AZP.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/gV6-4m-W34-view-Y10-VP-AZP.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/gV6-4m-W34-view-Y10-VP-AZP.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/searchViewController.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>searchViewController.nib</LogicalName>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

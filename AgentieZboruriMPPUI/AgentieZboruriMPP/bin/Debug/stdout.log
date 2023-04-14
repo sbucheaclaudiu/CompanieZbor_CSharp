@@ -1,0 +1,3 @@
+SQLite: Se deschide o conexiune la URI=file:/Users/sbucheaclaudiu/RiderProjects/AgentieZboruri_MPP/AgentieZboruriDB.sqlite,Version=3
+Mono.Data.Sqlite.SqliteConnection
+Zbor{destination='Paris', data=12/13/2022 12:00:00 AM, time=14:00, airport='AIR2', nrLocuriLibere=222}

@@ -1,0 +1,348 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		182782D00000000000000000 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 196399900000000000000000 /* Cocoa.framework */; };
+		248066300000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88397C000000000000000000 /* Foundation.framework */; };
+		CA055D000000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31A304700000000000000000 /* Assets.xcassets */; };
+		3EBB28300000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 34946A300000000000000000 /* Info.plist */; };
+		1937BBF00000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 22F59B700000000000000000 /* Entitlements.plist */; };
+		3AA277600000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB632C000000000000000000 /* Main.storyboard */; };
+		D67C92000000000000000000 /* buyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 38A612A00000000000000000 /* buyViewController.xib */; };
+		3DD6A7B00000000000000000 /* searchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C8BE5800000000000000000 /* searchViewController.xib */; };
+		10EB11800000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18439DE00000000000000000 /* AppDelegate.m */; };
+		1A608D200000000000000000 /* searchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D64F6500000000000000000 /* searchViewController.m */; };
+		188CA9000000000000000000 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF1F1400000000000000000 /* ViewController.m */; };
+		4817BB000000000000000000 /* buyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 288D59400000000000000000 /* buyViewController.m */; };
+		2CF823A00000000000000000 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14B940D00000000000000000 /* MainViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3A8347600000000000000000 /* AgentieZboruriMPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "AgentieZboruriMPP.app"; path = "AgentieZboruriMPP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		196399900000000000000000 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Cocoa.framework"; path = "System/Library/Frameworks/Cocoa.framework"; sourceTree = SDKROOT; };
+		88397C000000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		31A304700000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		34946A300000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		22F59B700000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		FB632C000000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
+		38A612A00000000000000000 /* buyViewController.xib */ = {isa = PBXFileReference; name = "buyViewController.xib"; path = "buyViewController.xib"; sourceTree = "<group>"; };
+		2C8BE5800000000000000000 /* searchViewController.xib */ = {isa = PBXFileReference; name = "searchViewController.xib"; path = "searchViewController.xib"; sourceTree = "<group>"; };
+		E9D826000000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		18439DE00000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		389956000000000000000000 /* searchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "searchViewController.h"; path = "searchViewController.h"; sourceTree = "<group>"; };
+		2D64F6500000000000000000 /* searchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "searchViewController.m"; path = "searchViewController.m"; sourceTree = "<group>"; };
+		1FD640700000000000000000 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ViewController.h"; path = "ViewController.h"; sourceTree = "<group>"; };
+		1CF1F1400000000000000000 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ViewController.m"; path = "ViewController.m"; sourceTree = "<group>"; };
+		1E8844200000000000000000 /* buyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "buyViewController.h"; path = "buyViewController.h"; sourceTree = "<group>"; };
+		288D59400000000000000000 /* buyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "buyViewController.m"; path = "buyViewController.m"; sourceTree = "<group>"; };
+		12CA65900000000000000000 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "MainViewController.h"; path = "MainViewController.h"; sourceTree = "<group>"; };
+		14B940D00000000000000000 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "MainViewController.m"; path = "MainViewController.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		291D92300000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				182782D00000000000000000 /* Cocoa.framework in Frameworks */,
+				248066300000000000000000 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		320A24300000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				25B461000000000000000000 /* AgentieZboruriMPP */,
+				153576E00000000000000000 /* Frameworks */,
+				3EE12E300000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3EE12E300000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3A8347600000000000000000 /* AgentieZboruriMPP.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		153576E00000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				196399900000000000000000 /* Cocoa.framework */,
+				88397C000000000000000000 /* Foundation.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		25B461000000000000000000 /* AgentieZboruriMPP */ = {
+			isa = PBXGroup;
+			children = (
+				E9D826000000000000000000 /* AppDelegate.h */,
+				18439DE00000000000000000 /* AppDelegate.m */,
+				31A304700000000000000000 /* Assets.xcassets */,
+				1E8844200000000000000000 /* buyViewController.h */,
+				288D59400000000000000000 /* buyViewController.m */,
+				38A612A00000000000000000 /* buyViewController.xib */,
+				22F59B700000000000000000 /* Entitlements.plist */,
+				34946A300000000000000000 /* Info.plist */,
+				FB632C000000000000000000 /* Main.storyboard */,
+				12CA65900000000000000000 /* MainViewController.h */,
+				14B940D00000000000000000 /* MainViewController.m */,
+				389956000000000000000000 /* searchViewController.h */,
+				2D64F6500000000000000000 /* searchViewController.m */,
+				2C8BE5800000000000000000 /* searchViewController.xib */,
+				1FD640700000000000000000 /* ViewController.h */,
+				1CF1F1400000000000000000 /* ViewController.m */,
+			);
+			name = "AgentieZboruriMPP";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		35EAA0200000000000000000 /* AgentieZboruriMPP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 253FA1200000000000000000 /* Build configuration list for PBXNativeTarget "AgentieZboruriMPP" */;
+			buildPhases = (
+				F3CAA5000000000000000000 /* Sources */,
+				291D92300000000000000000 /* Frameworks */,
+				921FD5000000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "AgentieZboruriMPP";
+			productName = "AgentieZboruriMPP";
+			productReference = 3A8347600000000000000000 /* AgentieZboruriMPP.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1231E8200000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 23C129500000000000000000 /* Build configuration list for PBXProject "AgentieZboruriMPP" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 320A24300000000000000000;
+			productRefGroup = 3EE12E300000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				35EAA0200000000000000000 /* AgentieZboruriMPP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		921FD5000000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CA055D000000000000000000 /* Assets.xcassets in Resources */,
+				3EBB28300000000000000000 /* Info.plist in Resources */,
+				1937BBF00000000000000000 /* Entitlements.plist in Resources */,
+				3AA277600000000000000000 /* Main.storyboard in Resources */,
+				D67C92000000000000000000 /* buyViewController.xib in Resources */,
+				3DD6A7B00000000000000000 /* searchViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F3CAA5000000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				10EB11800000000000000000 /* AppDelegate.m in Sources */,
+				1A608D200000000000000000 /* searchViewController.m in Sources */,
+				188CA9000000000000000000 /* ViewController.m in Sources */,
+				4817BB000000000000000000 /* buyViewController.m in Sources */,
+				2CF823A00000000000000000 /* MainViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1CA73F000000000000000000 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		101E13900000000000000000 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		110EB0400000000000000000 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.companyname.AgentieZboruriMPP";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		198432A00000000000000000 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.companyname.AgentieZboruriMPP";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		23C129500000000000000000 /* Build configuration list for PBXProject "AgentieZboruriMPP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1CA73F000000000000000000 /* Debug */,
+				101E13900000000000000000 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		253FA1200000000000000000 /* Build configuration list for PBXNativeTarget "AgentieZboruriMPP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				110EB0400000000000000000 /* Debug */,
+				198432A00000000000000000 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1231E8200000000000000000 /* Project object */;
+}
